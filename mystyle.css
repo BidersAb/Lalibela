@@ -1,0 +1,44 @@
+.navbar{
+    border-bottom: 4px solid rgb(118, 118, 170);
+    font-size: 150%
+}
+.history-btn {
+    margin-bottom: 10px;
+}
+.btn-readmore{
+    margin-left: 76%;
+    margin-bottom: 8px;
+}
+h1,h2.h3,h4,h5,h6,p,button{
+    font-family: "Times New Roman", Times, serif;
+}
+p{
+    font-size: 24px;
+    font-family: "Times New Roman", Times, serif;
+}
+.sidecard{
+    height: auto;
+    overflow-y: scroll;
+}
+.mydropdown{
+    width: 270px;
+
+}
+body{
+    font-family: "Times New Roman", Times, serif;
+    
+}
+.card-body{
+   text-size-adjust: 150%;
+}
+.fewcontent:hover {
+    background-color: #F0F8FF;
+    
+  }
+  .btnreadmorehotel{
+      margin-left: 150px;
+  }
+  .btnreadmorehotelside{
+    margin-left: 110px;
+}
+
